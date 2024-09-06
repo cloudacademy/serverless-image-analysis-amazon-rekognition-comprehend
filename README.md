@@ -3,7 +3,7 @@
 <h1 align="center">Building a Serverless Image Analysis Solution With Amazon Rekognition and Amazon Comprehend</h1>
 
 <p align="center">
-  <a href="https://cloudacademy.com/">
+  <a href="https://platform.qa.com/course/working-with-amazon-rekognition-for-video-and-image-analysis-1/introduction-1725039422894/">
     <img src="https://img.shields.io/badge/-Start Lesson-blue" alt="">
   </a>
 </p>
